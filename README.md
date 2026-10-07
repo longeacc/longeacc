@@ -51,8 +51,8 @@ Manuscript in preparation. Stack: Python, PyTorch, Hugging Face Transformers, Dr
 |---|---|
 | [Air-quality data science project](https://github.com/longeacc/DATA_Science_PROJECT_AirQuality_France) | Analysis of reconstructed background air-pollution concentrations over France (2000–2015) |
 | [Face recognition with deep learning](https://github.com/longeacc/IA-and-Deep-Learning---Modern-face-recognition-with-deep-learning-project-) | Course project on modern deep-learning face recognition |
-| [DevOps on AWS](https://github.com/wilfried-lafaye/dashboard-devops-aws) | Team project: Flask dashboard, Quartz docs, automated deployment (EKS, Cloudflare Pages) |
-| [Data engineering project](https://github.com/william-zee/Projet_Data_Engineering) | Team project in Python |
+| [DevOps on AWS](https://github.com/wilfried-lafaye/dashboard-devops-aws) | Team project: Flask dashboard, automated deployment on AWS |
+| [Data engineering project - Scrapping ](https://github.com/william-zee/Projet_Data_Engineering) | Marmiton Data Intelligence , Culinary data analytics platform (ETL + Dashboard). |
 | [Face recognition](https://github.com/longeacc/IA-and-Deep-Learning---Modern-face-recognition-with-deep-learning-project-) | Course project on modern deep-learning face recognition |
 | [Debian ROCm CI](https://salsa.debian.org/Clement_LONGEAC) | autopkgtest scripts validating scientific software on AMD GPUs |
 | [Kaggle](https://www.kaggle.com/clmentlongeac/code) | Notebooks |
