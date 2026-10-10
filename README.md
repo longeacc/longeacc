@@ -80,7 +80,7 @@ Manuscript in preparation. Stack: Python, PyTorch, Hugging Face Transformers, Dr
 **Language models** DrBERT, BioMistral, fine-tuning, few-shot prompting, GPT-4 and Claude APIs  
 **Clinical NLP** EDS-NLP, BRAT, CoNLL, python-crfsuite, eco2ai  
 **Methods** grid search, asymmetric ordinal loss, corpus analysis, frugal and explainable AI  
-**GPU** AMD ROCm, OpenCL · 
+**GPU** AMD ROCm, OpenCL
 **Regulation** EU AI Act (Art. 12, 14), GDPR, HDS
  
 ---
