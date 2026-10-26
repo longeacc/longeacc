@@ -5,7 +5,8 @@
 Final-year engineering student at **ESIEE Paris** (Data Science & AI, *Tremplin Recherche* research track), based in Paris.
 I build NLP systems for French clinical text and I am working towards a PhD in AI for biomedical research.
 
- Paris, France  · 
+ Paris, France 
+<br>
  French · English · Japanese · Spanish
 
 [LinkedIn](https://www.linkedin.com/in/clément-longeac) · [Kaggle](https://www.kaggle.com/clmentlongeac/code) · [GitLab (Debian Salsa)](https://salsa.debian.org/Clement_LONGEAC) · [Email](mailto:clement.longeac@edu.esiee.fr)
